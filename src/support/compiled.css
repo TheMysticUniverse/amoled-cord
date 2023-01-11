@@ -10,7 +10,7 @@
     --background-floating: hsl(0, calc(var(--saturation-factor, 1) * 0%), 6%);
     --channeltextarea-background: hsl(0, calc(var(--saturation-factor, 1) * 0%), 5%);
     --input-background: hsl(0, calc(var(--saturation-factor, 1) * 0%), 4%);
-    --channels-default: hsl(0, calc(var(--saturation-factor, 1) * 0%), 55%);
+    --channels-default: hsl(0, calc(var(--saturation-factor, 1) * 0%), 95%);
     --header-primary: hsl(0, calc(var(--saturation-factor, 1) * 0%), 100%);
     --header-secondary: hsl(216, calc(var(--saturation-factor, 1) * 4%), 74%);
     --text-normal: hsl(0, calc(var(--saturation-factor, 1) * 0%), 100%);
